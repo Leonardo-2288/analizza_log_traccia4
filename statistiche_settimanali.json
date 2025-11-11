@@ -1,0 +1,722 @@
+{
+    "00001": {
+        "media_accessi_settimanali": 114.70270270270271,
+        "varianza_accessi_settimanali": 51578.54804804805,
+        "numero_settimane_con_accessi": 37
+    },
+    "00002": {
+        "media_accessi_settimanali": 23.5,
+        "varianza_accessi_settimanali": 924.5,
+        "numero_settimane_con_accessi": 2
+    },
+    "00003": {
+        "media_accessi_settimanali": 95.61538461538461,
+        "varianza_accessi_settimanali": 24391.046153846153,
+        "numero_settimane_con_accessi": 26
+    },
+    "00004": {
+        "media_accessi_settimanali": 55.333333333333336,
+        "varianza_accessi_settimanali": 6269.749999999999,
+        "numero_settimane_con_accessi": 9
+    },
+    "00005": {
+        "media_accessi_settimanali": 21.25,
+        "varianza_accessi_settimanali": 681.9285714285714,
+        "numero_settimane_con_accessi": 8
+    },
+    "00006": {
+        "media_accessi_settimanali": 19.157894736842106,
+        "varianza_accessi_settimanali": 741.5847953216373,
+        "numero_settimane_con_accessi": 19
+    },
+    "00007": {
+        "media_accessi_settimanali": 17.863636363636363,
+        "varianza_accessi_settimanali": 420.0281385281386,
+        "numero_settimane_con_accessi": 22
+    },
+    "00008": {
+        "media_accessi_settimanali": 23.37037037037037,
+        "varianza_accessi_settimanali": 807.3190883190885,
+        "numero_settimane_con_accessi": 27
+    },
+    "00009": {
+        "media_accessi_settimanali": 29.2,
+        "varianza_accessi_settimanali": 692.0833333333333,
+        "numero_settimane_con_accessi": 25
+    },
+    "00010": {
+        "media_accessi_settimanali": 34.75,
+        "varianza_accessi_settimanali": 1249.741935483871,
+        "numero_settimane_con_accessi": 32
+    },
+    "00011": {
+        "media_accessi_settimanali": 9.625,
+        "varianza_accessi_settimanali": 417.69642857142856,
+        "numero_settimane_con_accessi": 8
+    },
+    "00012": {
+        "media_accessi_settimanali": 34.68421052631579,
+        "varianza_accessi_settimanali": 2788.4502923976606,
+        "numero_settimane_con_accessi": 19
+    },
+    "00013": {
+        "media_accessi_settimanali": 16.727272727272727,
+        "varianza_accessi_settimanali": 590.6839826839828,
+        "numero_settimane_con_accessi": 22
+    },
+    "00014": {
+        "media_accessi_settimanali": 26,
+        "varianza_accessi_settimanali": 0,
+        "numero_settimane_con_accessi": 1
+    },
+    "00015": {
+        "media_accessi_settimanali": 30.035714285714285,
+        "varianza_accessi_settimanali": 998.8505291005292,
+        "numero_settimane_con_accessi": 28
+    },
+    "00016": {
+        "media_accessi_settimanali": 30.4,
+        "varianza_accessi_settimanali": 727.4166666666666,
+        "numero_settimane_con_accessi": 25
+    },
+    "00017": {
+        "media_accessi_settimanali": 13.45945945945946,
+        "varianza_accessi_settimanali": 490.6996996996997,
+        "numero_settimane_con_accessi": 37
+    },
+    "00018": {
+        "media_accessi_settimanali": 8.625,
+        "varianza_accessi_settimanali": 71.31666666666666,
+        "numero_settimane_con_accessi": 16
+    },
+    "00019": {
+        "media_accessi_settimanali": 31.904761904761905,
+        "varianza_accessi_settimanali": 2022.0904761904765,
+        "numero_settimane_con_accessi": 21
+    },
+    "00020": {
+        "media_accessi_settimanali": 40.72727272727273,
+        "varianza_accessi_settimanali": 1435.3506493506495,
+        "numero_settimane_con_accessi": 22
+    },
+    "00021": {
+        "media_accessi_settimanali": 22.5,
+        "varianza_accessi_settimanali": 559.0,
+        "numero_settimane_con_accessi": 4
+    },
+    "00022": {
+        "media_accessi_settimanali": 38.86363636363637,
+        "varianza_accessi_settimanali": 4773.456709956709,
+        "numero_settimane_con_accessi": 22
+    },
+    "00023": {
+        "media_accessi_settimanali": 35.96,
+        "varianza_accessi_settimanali": 1896.7066666666665,
+        "numero_settimane_con_accessi": 25
+    },
+    "00024": {
+        "media_accessi_settimanali": 31.842105263157894,
+        "varianza_accessi_settimanali": 1343.9181286549708,
+        "numero_settimane_con_accessi": 19
+    },
+    "00025": {
+        "media_accessi_settimanali": 61.09090909090909,
+        "varianza_accessi_settimanali": 2885.7056277056276,
+        "numero_settimane_con_accessi": 22
+    },
+    "00026": {
+        "media_accessi_settimanali": 38.53333333333333,
+        "varianza_accessi_settimanali": 1944.695238095238,
+        "numero_settimane_con_accessi": 15
+    },
+    "00027": {
+        "media_accessi_settimanali": 9.166666666666666,
+        "varianza_accessi_settimanali": 211.0606060606061,
+        "numero_settimane_con_accessi": 12
+    },
+    "00028": {
+        "media_accessi_settimanali": 28.772727272727273,
+        "varianza_accessi_settimanali": 839.2316017316017,
+        "numero_settimane_con_accessi": 22
+    },
+    "00029": {
+        "media_accessi_settimanali": 36.81818181818182,
+        "varianza_accessi_settimanali": 1035.3939393939395,
+        "numero_settimane_con_accessi": 22
+    },
+    "00030": {
+        "media_accessi_settimanali": 32.09090909090909,
+        "varianza_accessi_settimanali": 1847.2294372294373,
+        "numero_settimane_con_accessi": 22
+    },
+    "00031": {
+        "media_accessi_settimanali": 23.523809523809526,
+        "varianza_accessi_settimanali": 1680.161904761905,
+        "numero_settimane_con_accessi": 21
+    },
+    "00032": {
+        "media_accessi_settimanali": 22.375,
+        "varianza_accessi_settimanali": 434.07065217391306,
+        "numero_settimane_con_accessi": 24
+    },
+    "00033": {
+        "media_accessi_settimanali": 25.583333333333332,
+        "varianza_accessi_settimanali": 365.3560606060606,
+        "numero_settimane_con_accessi": 12
+    },
+    "00034": {
+        "media_accessi_settimanali": 27.26086956521739,
+        "varianza_accessi_settimanali": 822.9288537549407,
+        "numero_settimane_con_accessi": 23
+    },
+    "00035": {
+        "media_accessi_settimanali": 27.46153846153846,
+        "varianza_accessi_settimanali": 1032.0984615384616,
+        "numero_settimane_con_accessi": 26
+    },
+    "00036": {
+        "media_accessi_settimanali": 31,
+        "varianza_accessi_settimanali": 1444.3,
+        "numero_settimane_con_accessi": 21
+    },
+    "00037": {
+        "media_accessi_settimanali": 46.125,
+        "varianza_accessi_settimanali": 2059.85,
+        "numero_settimane_con_accessi": 16
+    },
+    "00038": {
+        "media_accessi_settimanali": 27.125,
+        "varianza_accessi_settimanali": 486.4107142857143,
+        "numero_settimane_con_accessi": 8
+    },
+    "00039": {
+        "media_accessi_settimanali": 25.76923076923077,
+        "varianza_accessi_settimanali": 694.8246153846153,
+        "numero_settimane_con_accessi": 26
+    },
+    "00040": {
+        "media_accessi_settimanali": 31.0625,
+        "varianza_accessi_settimanali": 995.3958333333334,
+        "numero_settimane_con_accessi": 16
+    },
+    "00041": {
+        "media_accessi_settimanali": 31.181818181818183,
+        "varianza_accessi_settimanali": 1876.2510822510822,
+        "numero_settimane_con_accessi": 22
+    },
+    "00042": {
+        "media_accessi_settimanali": 34.25,
+        "varianza_accessi_settimanali": 1830.9782608695652,
+        "numero_settimane_con_accessi": 24
+    },
+    "00043": {
+        "media_accessi_settimanali": 84.33333333333333,
+        "varianza_accessi_settimanali": 5802.333333333333,
+        "numero_settimane_con_accessi": 3
+    },
+    "00044": {
+        "media_accessi_settimanali": 19.4375,
+        "varianza_accessi_settimanali": 373.8024193548387,
+        "numero_settimane_con_accessi": 32
+    },
+    "00045": {
+        "media_accessi_settimanali": 35.166666666666664,
+        "varianza_accessi_settimanali": 4718.500000000001,
+        "numero_settimane_con_accessi": 18
+    },
+    "00046": {
+        "media_accessi_settimanali": 4.25,
+        "varianza_accessi_settimanali": 8.25,
+        "numero_settimane_con_accessi": 4
+    },
+    "00047": {
+        "media_accessi_settimanali": 22.0625,
+        "varianza_accessi_settimanali": 1121.2625,
+        "numero_settimane_con_accessi": 16
+    },
+    "00048": {
+        "media_accessi_settimanali": 17.80952380952381,
+        "varianza_accessi_settimanali": 338.06190476190477,
+        "numero_settimane_con_accessi": 21
+    },
+    "00049": {
+        "media_accessi_settimanali": 57.23809523809524,
+        "varianza_accessi_settimanali": 7166.090476190477,
+        "numero_settimane_con_accessi": 21
+    },
+    "00050": {
+        "media_accessi_settimanali": 22.166666666666668,
+        "varianza_accessi_settimanali": 3359.0606060606065,
+        "numero_settimane_con_accessi": 12
+    },
+    "00051": {
+        "media_accessi_settimanali": 21.294117647058822,
+        "varianza_accessi_settimanali": 1051.8455882352941,
+        "numero_settimane_con_accessi": 17
+    },
+    "00052": {
+        "media_accessi_settimanali": 51.578947368421055,
+        "varianza_accessi_settimanali": 9265.590643274854,
+        "numero_settimane_con_accessi": 19
+    },
+    "00053": {
+        "media_accessi_settimanali": 34.578947368421055,
+        "varianza_accessi_settimanali": 2182.9239766081873,
+        "numero_settimane_con_accessi": 19
+    },
+    "00054": {
+        "media_accessi_settimanali": 12,
+        "varianza_accessi_settimanali": 27,
+        "numero_settimane_con_accessi": 3
+    },
+    "00055": {
+        "media_accessi_settimanali": 30.1875,
+        "varianza_accessi_settimanali": 896.2958333333333,
+        "numero_settimane_con_accessi": 16
+    },
+    "00056": {
+        "media_accessi_settimanali": 41.10526315789474,
+        "varianza_accessi_settimanali": 1089.2105263157894,
+        "numero_settimane_con_accessi": 19
+    },
+    "00057": {
+        "media_accessi_settimanali": 6.714285714285714,
+        "varianza_accessi_settimanali": 23.904761904761905,
+        "numero_settimane_con_accessi": 7
+    },
+    "00058": {
+        "media_accessi_settimanali": 54.1,
+        "varianza_accessi_settimanali": 3117.042105263158,
+        "numero_settimane_con_accessi": 20
+    },
+    "00059": {
+        "media_accessi_settimanali": 58.51851851851852,
+        "varianza_accessi_settimanali": 10008.874643874644,
+        "numero_settimane_con_accessi": 27
+    },
+    "00060": {
+        "media_accessi_settimanali": 21.3,
+        "varianza_accessi_settimanali": 1164.7689655172412,
+        "numero_settimane_con_accessi": 30
+    },
+    "00061": {
+        "media_accessi_settimanali": 16.958333333333332,
+        "varianza_accessi_settimanali": 499.25905797101456,
+        "numero_settimane_con_accessi": 24
+    },
+    "00062": {
+        "media_accessi_settimanali": 24.523809523809526,
+        "varianza_accessi_settimanali": 580.3619047619048,
+        "numero_settimane_con_accessi": 21
+    },
+    "00063": {
+        "media_accessi_settimanali": 17.764705882352942,
+        "varianza_accessi_settimanali": 362.19117647058823,
+        "numero_settimane_con_accessi": 17
+    },
+    "00064": {
+        "media_accessi_settimanali": 20.142857142857142,
+        "varianza_accessi_settimanali": 481.92857142857144,
+        "numero_settimane_con_accessi": 21
+    },
+    "00065": {
+        "media_accessi_settimanali": 26,
+        "varianza_accessi_settimanali": 707.3684210526316,
+        "numero_settimane_con_accessi": 20
+    },
+    "00066": {
+        "media_accessi_settimanali": 28.608695652173914,
+        "varianza_accessi_settimanali": 763.5217391304348,
+        "numero_settimane_con_accessi": 23
+    },
+    "00067": {
+        "media_accessi_settimanali": 17.157894736842106,
+        "varianza_accessi_settimanali": 360.8070175438596,
+        "numero_settimane_con_accessi": 19
+    },
+    "00068": {
+        "media_accessi_settimanali": 15.115384615384615,
+        "varianza_accessi_settimanali": 293.4661538461539,
+        "numero_settimane_con_accessi": 26
+    },
+    "00069": {
+        "media_accessi_settimanali": 16.083333333333332,
+        "varianza_accessi_settimanali": 577.3560606060607,
+        "numero_settimane_con_accessi": 12
+    },
+    "00070": {
+        "media_accessi_settimanali": 16.32,
+        "varianza_accessi_settimanali": 499.8933333333334,
+        "numero_settimane_con_accessi": 25
+    },
+    "00071": {
+        "media_accessi_settimanali": 36.04761904761905,
+        "varianza_accessi_settimanali": 1499.6476190476192,
+        "numero_settimane_con_accessi": 21
+    },
+    "00072": {
+        "media_accessi_settimanali": 37.476190476190474,
+        "varianza_accessi_settimanali": 967.6619047619048,
+        "numero_settimane_con_accessi": 21
+    },
+    "00073": {
+        "media_accessi_settimanali": 7.785714285714286,
+        "varianza_accessi_settimanali": 65.87362637362638,
+        "numero_settimane_con_accessi": 14
+    },
+    "00074": {
+        "media_accessi_settimanali": 49.04761904761905,
+        "varianza_accessi_settimanali": 5587.64761904762,
+        "numero_settimane_con_accessi": 21
+    },
+    "00075": {
+        "media_accessi_settimanali": 38.77272727272727,
+        "varianza_accessi_settimanali": 875.422077922078,
+        "numero_settimane_con_accessi": 22
+    },
+    "00076": {
+        "media_accessi_settimanali": 15.142857142857142,
+        "varianza_accessi_settimanali": 257.2087912087912,
+        "numero_settimane_con_accessi": 14
+    },
+    "00077": {
+        "media_accessi_settimanali": 21.833333333333332,
+        "varianza_accessi_settimanali": 796.9705882352941,
+        "numero_settimane_con_accessi": 18
+    },
+    "00078": {
+        "media_accessi_settimanali": 37.904761904761905,
+        "varianza_accessi_settimanali": 1322.2904761904763,
+        "numero_settimane_con_accessi": 21
+    },
+    "00079": {
+        "media_accessi_settimanali": 29.8,
+        "varianza_accessi_settimanali": 331.22105263157897,
+        "numero_settimane_con_accessi": 20
+    },
+    "00080": {
+        "media_accessi_settimanali": 22.272727272727273,
+        "varianza_accessi_settimanali": 373.9220779220779,
+        "numero_settimane_con_accessi": 22
+    },
+    "00081": {
+        "media_accessi_settimanali": 43.5,
+        "varianza_accessi_settimanali": 2418.6666666666665,
+        "numero_settimane_con_accessi": 16
+    },
+    "00082": {
+        "media_accessi_settimanali": 28.7,
+        "varianza_accessi_settimanali": 769.9052631578946,
+        "numero_settimane_con_accessi": 20
+    },
+    "00083": {
+        "media_accessi_settimanali": 29.25,
+        "varianza_accessi_settimanali": 1798.6184210526317,
+        "numero_settimane_con_accessi": 20
+    },
+    "00084": {
+        "media_accessi_settimanali": 30.055555555555557,
+        "varianza_accessi_settimanali": 237.1143790849673,
+        "numero_settimane_con_accessi": 18
+    },
+    "00085": {
+        "media_accessi_settimanali": 28.473684210526315,
+        "varianza_accessi_settimanali": 1186.8187134502923,
+        "numero_settimane_con_accessi": 19
+    },
+    "00086": {
+        "media_accessi_settimanali": 20.47826086956522,
+        "varianza_accessi_settimanali": 223.3517786561265,
+        "numero_settimane_con_accessi": 23
+    },
+    "00087": {
+        "media_accessi_settimanali": 27.61111111111111,
+        "varianza_accessi_settimanali": 2176.6045751633987,
+        "numero_settimane_con_accessi": 18
+    },
+    "00088": {
+        "media_accessi_settimanali": 57.333333333333336,
+        "varianza_accessi_settimanali": 4405.866666666666,
+        "numero_settimane_con_accessi": 6
+    },
+    "00089": {
+        "media_accessi_settimanali": 11.2,
+        "varianza_accessi_settimanali": 52.199999999999996,
+        "numero_settimane_con_accessi": 5
+    },
+    "00090": {
+        "media_accessi_settimanali": 18.77777777777778,
+        "varianza_accessi_settimanali": 652.6944444444445,
+        "numero_settimane_con_accessi": 9
+    },
+    "00091": {
+        "media_accessi_settimanali": 50.1,
+        "varianza_accessi_settimanali": 1228.2,
+        "numero_settimane_con_accessi": 20
+    },
+    "00092": {
+        "media_accessi_settimanali": 59.391304347826086,
+        "varianza_accessi_settimanali": 1760.703557312253,
+        "numero_settimane_con_accessi": 23
+    },
+    "00093": {
+        "media_accessi_settimanali": 41.42857142857143,
+        "varianza_accessi_settimanali": 1337.4391534391532,
+        "numero_settimane_con_accessi": 28
+    },
+    "00094": {
+        "media_accessi_settimanali": 37.43478260869565,
+        "varianza_accessi_settimanali": 5008.893280632412,
+        "numero_settimane_con_accessi": 23
+    },
+    "00095": {
+        "media_accessi_settimanali": 41.15384615384615,
+        "varianza_accessi_settimanali": 2368.807692307692,
+        "numero_settimane_con_accessi": 13
+    },
+    "00096": {
+        "media_accessi_settimanali": 48.73913043478261,
+        "varianza_accessi_settimanali": 3351.2015810276675,
+        "numero_settimane_con_accessi": 23
+    },
+    "00097": {
+        "media_accessi_settimanali": 29.05263157894737,
+        "varianza_accessi_settimanali": 1888.830409356725,
+        "numero_settimane_con_accessi": 19
+    },
+    "00098": {
+        "media_accessi_settimanali": 29.166666666666668,
+        "varianza_accessi_settimanali": 947.5588235294117,
+        "numero_settimane_con_accessi": 18
+    },
+    "00099": {
+        "media_accessi_settimanali": 35.73684210526316,
+        "varianza_accessi_settimanali": 1180.3157894736842,
+        "numero_settimane_con_accessi": 19
+    },
+    "00100": {
+        "media_accessi_settimanali": 36.125,
+        "varianza_accessi_settimanali": 3267.1833333333334,
+        "numero_settimane_con_accessi": 16
+    },
+    "00101": {
+        "media_accessi_settimanali": 31.055555555555557,
+        "varianza_accessi_settimanali": 1192.0555555555559,
+        "numero_settimane_con_accessi": 18
+    },
+    "00102": {
+        "media_accessi_settimanali": 162,
+        "varianza_accessi_settimanali": 27873,
+        "numero_settimane_con_accessi": 3
+    },
+    "00103": {
+        "media_accessi_settimanali": 13,
+        "varianza_accessi_settimanali": 246.13333333333333,
+        "numero_settimane_con_accessi": 16
+    },
+    "00104": {
+        "media_accessi_settimanali": 43.55,
+        "varianza_accessi_settimanali": 2619.7342105263156,
+        "numero_settimane_con_accessi": 20
+    },
+    "00105": {
+        "media_accessi_settimanali": 36.05,
+        "varianza_accessi_settimanali": 605.3131578947368,
+        "numero_settimane_con_accessi": 20
+    },
+    "00106": {
+        "media_accessi_settimanali": 28.545454545454547,
+        "varianza_accessi_settimanali": 1788.3549783549781,
+        "numero_settimane_con_accessi": 22
+    },
+    "00107": {
+        "media_accessi_settimanali": 36.888888888888886,
+        "varianza_accessi_settimanali": 458.4575163398693,
+        "numero_settimane_con_accessi": 18
+    },
+    "00108": {
+        "media_accessi_settimanali": 20.866666666666667,
+        "varianza_accessi_settimanali": 279.9809523809524,
+        "numero_settimane_con_accessi": 15
+    },
+    "00109": {
+        "media_accessi_settimanali": 43.6,
+        "varianza_accessi_settimanali": 2139.4105263157894,
+        "numero_settimane_con_accessi": 20
+    },
+    "00110": {
+        "media_accessi_settimanali": 28.61111111111111,
+        "varianza_accessi_settimanali": 686.7222222222222,
+        "numero_settimane_con_accessi": 18
+    },
+    "00111": {
+        "media_accessi_settimanali": 46.35294117647059,
+        "varianza_accessi_settimanali": 1656.9926470588236,
+        "numero_settimane_con_accessi": 17
+    },
+    "00112": {
+        "media_accessi_settimanali": 27,
+        "varianza_accessi_settimanali": 1495.8947368421052,
+        "numero_settimane_con_accessi": 20
+    },
+    "00113": {
+        "media_accessi_settimanali": 58.666666666666664,
+        "varianza_accessi_settimanali": 2290.3333333333335,
+        "numero_settimane_con_accessi": 3
+    },
+    "00114": {
+        "media_accessi_settimanali": 44.10526315789474,
+        "varianza_accessi_settimanali": 1206.5438596491229,
+        "numero_settimane_con_accessi": 19
+    },
+    "00115": {
+        "media_accessi_settimanali": 25.526315789473685,
+        "varianza_accessi_settimanali": 746.7076023391813,
+        "numero_settimane_con_accessi": 19
+    },
+    "00116": {
+        "media_accessi_settimanali": 33.583333333333336,
+        "varianza_accessi_settimanali": 1919.3560606060605,
+        "numero_settimane_con_accessi": 12
+    },
+    "00117": {
+        "media_accessi_settimanali": 19.88235294117647,
+        "varianza_accessi_settimanali": 460.4852941176471,
+        "numero_settimane_con_accessi": 17
+    },
+    "00118": {
+        "media_accessi_settimanali": 9.909090909090908,
+        "varianza_accessi_settimanali": 110.8909090909091,
+        "numero_settimane_con_accessi": 11
+    },
+    "00119": {
+        "media_accessi_settimanali": 42.1578947368421,
+        "varianza_accessi_settimanali": 2889.251461988304,
+        "numero_settimane_con_accessi": 19
+    },
+    "00120": {
+        "media_accessi_settimanali": 42.53846153846154,
+        "varianza_accessi_settimanali": 2130.102564102564,
+        "numero_settimane_con_accessi": 13
+    },
+    "00121": {
+        "media_accessi_settimanali": 25.210526315789473,
+        "varianza_accessi_settimanali": 1286.06432748538,
+        "numero_settimane_con_accessi": 19
+    },
+    "00122": {
+        "media_accessi_settimanali": 17.9375,
+        "varianza_accessi_settimanali": 263.6625,
+        "numero_settimane_con_accessi": 16
+    },
+    "00123": {
+        "media_accessi_settimanali": 36.333333333333336,
+        "varianza_accessi_settimanali": 618.952380952381,
+        "numero_settimane_con_accessi": 15
+    },
+    "00124": {
+        "media_accessi_settimanali": 11,
+        "varianza_accessi_settimanali": 128,
+        "numero_settimane_con_accessi": 2
+    },
+    "00125": {
+        "media_accessi_settimanali": 64.5,
+        "varianza_accessi_settimanali": 7564.5,
+        "numero_settimane_con_accessi": 2
+    },
+    "00126": {
+        "media_accessi_settimanali": 31.333333333333332,
+        "varianza_accessi_settimanali": 758.2424242424244,
+        "numero_settimane_con_accessi": 12
+    },
+    "00127": {
+        "media_accessi_settimanali": 30.63157894736842,
+        "varianza_accessi_settimanali": 665.578947368421,
+        "numero_settimane_con_accessi": 19
+    },
+    "00128": {
+        "media_accessi_settimanali": 39.25,
+        "varianza_accessi_settimanali": 1666.9342105263158,
+        "numero_settimane_con_accessi": 20
+    },
+    "00129": {
+        "media_accessi_settimanali": 26.25,
+        "varianza_accessi_settimanali": 975.1333333333333,
+        "numero_settimane_con_accessi": 16
+    },
+    "00130": {
+        "media_accessi_settimanali": 70.25,
+        "varianza_accessi_settimanali": 4090.733333333333,
+        "numero_settimane_con_accessi": 16
+    },
+    "00131": {
+        "media_accessi_settimanali": 13.25,
+        "varianza_accessi_settimanali": 184.86666666666667,
+        "numero_settimane_con_accessi": 16
+    },
+    "00132": {
+        "media_accessi_settimanali": 41.75,
+        "varianza_accessi_settimanali": 1766.6,
+        "numero_settimane_con_accessi": 16
+    },
+    "00133": {
+        "media_accessi_settimanali": 27.3125,
+        "varianza_accessi_settimanali": 821.0291666666667,
+        "numero_settimane_con_accessi": 16
+    },
+    "00134": {
+        "media_accessi_settimanali": 17.5,
+        "varianza_accessi_settimanali": 194.7,
+        "numero_settimane_con_accessi": 6
+    },
+    "00135": {
+        "media_accessi_settimanali": 27.266666666666666,
+        "varianza_accessi_settimanali": 908.3523809523809,
+        "numero_settimane_con_accessi": 15
+    },
+    "00136": {
+        "media_accessi_settimanali": 37.470588235294116,
+        "varianza_accessi_settimanali": 1168.389705882353,
+        "numero_settimane_con_accessi": 17
+    },
+    "00137": {
+        "media_accessi_settimanali": 56.64705882352941,
+        "varianza_accessi_settimanali": 6111.992647058824,
+        "numero_settimane_con_accessi": 17
+    },
+    "00138": {
+        "media_accessi_settimanali": 41.473684210526315,
+        "varianza_accessi_settimanali": 1181.2631578947369,
+        "numero_settimane_con_accessi": 19
+    },
+    "00139": {
+        "media_accessi_settimanali": 23.666666666666668,
+        "varianza_accessi_settimanali": 844.8235294117646,
+        "numero_settimane_con_accessi": 18
+    },
+    "00140": {
+        "media_accessi_settimanali": 22.90909090909091,
+        "varianza_accessi_settimanali": 334.0909090909091,
+        "numero_settimane_con_accessi": 11
+    },
+    "00141": {
+        "media_accessi_settimanali": 37.666666666666664,
+        "varianza_accessi_settimanali": 2732.333333333333,
+        "numero_settimane_con_accessi": 3
+    },
+    "00142": {
+        "media_accessi_settimanali": 49.666666666666664,
+        "varianza_accessi_settimanali": 5989.333333333334,
+        "numero_settimane_con_accessi": 3
+    },
+    "00143": {
+        "media_accessi_settimanali": 77.33333333333333,
+        "varianza_accessi_settimanali": 3712.3333333333335,
+        "numero_settimane_con_accessi": 3
+    },
+    "00144": {
+        "media_accessi_settimanali": 11,
+        "varianza_accessi_settimanali": 84,
+        "numero_settimane_con_accessi": 3
+    }
+}
